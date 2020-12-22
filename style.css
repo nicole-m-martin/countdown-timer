@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40vh;
+  background: lightblue;
+  background: linear-gradient(
+    90deg,
+    lightblue 5%,
+    lightgreen 33%,
+    lightyellow 100%
+  );
+}
+
+#countdownTimer {
+  color: fff;
+  font-size: 5rem;
+  font-weight: bold;
+  font-family: sans-serif;
+
+}
